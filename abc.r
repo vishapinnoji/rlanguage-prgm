@@ -1,0 +1,14 @@
+a=5
+b=16
+c=TRUE
+d=FALSE
+print(a+b)
+print(a-b)
+print(a*b)
+print(a**b)
+print(!c)
+print(b<a)
+print(c>d)
+print(a/b)
+print(a/b)
+print(a%%b)
